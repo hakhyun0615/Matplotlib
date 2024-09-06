@@ -1,1 +1,42 @@
-# Matplotlib
+# Data Visualization with Python using Matplotlib
+This repository contains Jupyter Notebook files summarizing the content of the book "Matplotlib Tutorial - 파이썬으로 데이터 시각화하기".
+
+## Contents
+1. basic
+2. label_data
+3. axis_label
+4. legend
+5. axis_range
+6. line_style
+7. marker
+8. color
+9. area
+10. axis_scale
+11. multiple_curves
+12. grid
+13. tick_marks
+14. title
+15. horizontal&vertical_line
+16. bar_graph
+17. horizontal_bar_graph
+18. scatter_plot
+19. 3D_scatter_plot
+20. histogram_plot
+21. errorbar
+22. pie_chart
+23. heatmap
+24. multiple_graphs
+25. colormap
+26. text
+27. mathematical_expression
+28. graph_style
+29. save_as_image
+30. object_oriented_interface1
+31. object_oriented_interface2
+32. axis_positioning
+33. dual_y_axis
+34. two_types_of_graph
+35. box_plot
+36. violin_plot
+37. add_patches
+38. fill_pattern
