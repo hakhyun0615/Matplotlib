@@ -1,5 +1,5 @@
 # Data Visualization with Python using Matplotlib
-This repository contains Jupyter Notebook files summarizing the content of the book "Matplotlib Tutorial - 파이썬으로 데이터 시각화하기".
+This repository contains Jupyter Notebook files summarizing the content of the book "Matplotlib Tutorial".
 
 ## Contents
 1. basic
