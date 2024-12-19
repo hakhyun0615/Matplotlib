@@ -1,4 +1,4 @@
-# Data Visualization with Python using Matplotlib
+# Data Visualization with Matplotlib
 This repository contains Jupyter Notebook files summarizing the content of the book "Matplotlib Tutorial".
 
 ## Contents
